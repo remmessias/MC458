@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # variables
-programName="lab03"
+programName="lab04"
 count=10
 fileExtension="res"
 
